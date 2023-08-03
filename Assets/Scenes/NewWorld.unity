@@ -2741,11 +2741,11 @@ PrefabInstance:
     - target: {fileID: 2357178344488632581, guid: bbaa121089f18d346b428a66c1787d9a, type: 3}
       propertyPath: nextSceneSRC
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1750700222}
     - target: {fileID: 2357178344488632581, guid: bbaa121089f18d346b428a66c1787d9a, type: 3}
       propertyPath: gameController
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1679174589}
     - target: {fileID: 2358041754489349384, guid: bbaa121089f18d346b428a66c1787d9a, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
@@ -3568,6 +3568,17 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1749256514}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1750700222 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 6574631237315950422, guid: 31ab26cc2b85bbe4287453cc2395d2fd, type: 3}
+  m_PrefabInstance: {fileID: 1270604797}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15a0ff1761b4d5843a7ddf41255437e2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &1778757717
 PrefabInstance:
   m_ObjectHideFlags: 0
